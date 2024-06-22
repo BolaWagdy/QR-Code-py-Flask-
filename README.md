@@ -1,6 +1,6 @@
 # Documentation
-Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
 ```
+python -m venv venv
 source venv/bin/activate
 pip install flask
 pip install gunicorn
