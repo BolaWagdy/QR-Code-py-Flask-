@@ -1,6 +1,6 @@
 # Documentation
 ```
-python -m venv venv
+<span style="color:green;">python> </span> -m venv venv
 source venv/bin/activate
 pip install flask
 pip install gunicorn
